@@ -1,0 +1,9 @@
+canvas {
+  width: 500px;
+  height: 300px;
+  border: 1px black;
+}
+
+.puple {
+  background-color: purple;
+}
